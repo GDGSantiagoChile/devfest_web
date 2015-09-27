@@ -1,31 +1,31 @@
 [{
     "id": 1,
-    "name": "Said Tahsin Dane",
-    "company": "Startup Digest, Turkey",
-    "photoUrl": "../../images/people/said_tahsine_dane.jpg"
+    "name": "Nicolas Bortolotti",
+    "company": "Developer Relation Program Manager South Region at Google",
+    "photoUrl": "../../images/people/Nicolas_Bortolotti.jpg"
 }, {
     "id": 2,
-    "name": "Mateusz Herych",
-    "company": "Base CRM, Poland",
-    "photoUrl": "../../images/people/mateus_herych.jpg"
+    "name": "Maximiliano Mussuto",
+    "company": "GDG Santiago Chile Lead",
+    "photoUrl": "../../images/people/Maximiliano_Mussuto.jpg"
 }, {
     "id": 3,
-    "name": "Michał Tajchert",
-    "company": "12Hours.io, Poland",
-    "photoUrl": "../../images/people/michal_tajchert.jpg"
+    "name": "Gabriel Muñoz Madrid",
+    "company": "Frond Developer",
+    "photoUrl": "../../images/people/Gabriel_Munoz_Madrid.jpg"
 }, {
     "id": 4,
-    "name": "Yehor Lvivski",
-    "company": "Spatialkey, Ukraine",
-    "photoUrl": "../../images/people/yehor_lvivski.jpg"
+    "name": "Christian Diego Rojas Navarrete",
+    "company": "Computer Engineer",
+    "photoUrl": "../../images/people/Christian_Diego_Rojas_Navarrete.JPG"
 }, {
     "id": 5,
-    "name": "Valentyn Shybanov",
-    "company": "Twinfield, Ukraine",
-    "photoUrl": "../../images/people/valentyn_shybanov.jpg"
+    "name": "Gonzalo Pincheira Arancibia",
+    "company": "Desarrollador Web Freelancer",
+    "photoUrl": "../../images/people/Gonzalo_Pincheira_Arancibia.jpg"
 }, {
     "id": 6,
-    "name": "Mandy Waite",
-    "company": "Google, UK",
-    "photoUrl": "../../images/people/mandy_waite.jpg"
+    "name": "Felipe Torres",
+    "company": "Ingeniero Desarrollo en Sharepoint",
+    "photoUrl": "../../images/people/Felipe_Torres.jpg"
 }]
