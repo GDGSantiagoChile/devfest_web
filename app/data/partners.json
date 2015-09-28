@@ -2,9 +2,9 @@
     {
         "title": "General sponsor",
         "logos": [{
-            "name": "Google",
-            "url": "https://www.google.com.ua/intl/en/about/",
-            "logoUrl": "../images/partners/google.svg"
+            "name": "Google Developers",
+            "url": "https://www.google.com/intl/en/about/",
+            "logoUrl": "../images/partners/gdev.png"
         }]
     }, {
         "title": "Google Developers Santiago Chile",
@@ -13,9 +13,20 @@
             "url": "http://n-ix.com/",
             "logoUrl": "../images/partners/gdg.png"
         }]
+    }, {
+        "title": "Universidad San Sebastián",
+        "logos": [{
+            "name": "N-IX",
+            "url": "http://uss.cl",
+            "logoUrl": "../images/partners/uss.png"
+        }]
     },  {
         "title": "Information partners",
-        "logos": [{
+        "logos": [  {
+            "name": "Women Techmakers",
+            "url": "https://www.womentechmakers.com/",
+            "logoUrl": "../images/partners/wt.png"
+        } ,{
             "name": "Noders Chile",
             "url": "http://www.noders.cl/",
             "logoUrl": "../images/partners/noders.png"
