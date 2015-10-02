@@ -7,12 +7,16 @@
             "logoUrl": "../images/partners/gdev.png"
         }]
     }, {
-        "title": "Google Developers Santiago Chile",
+        "title": "Google  Santiago Chile",
         "logos": [{
             "name": "N-IX",
             "url": "http://n-ix.com/",
             "logoUrl": "../images/partners/gdg.png"
-        }]
+        }, {
+            "name": "Women Techmakers",
+            "url": "https://www.womentechmakers.com/",
+            "logoUrl": "../images/partners/wt.png"
+        } ]
     }, {
         "title": "Universidad San Sebastián",
         "logos": [{
@@ -23,10 +27,6 @@
     },  {
         "title": "Information partners",
         "logos": [  {
-            "name": "Women Techmakers",
-            "url": "https://www.womentechmakers.com/",
-            "logoUrl": "../images/partners/wt.png"
-        } ,{
             "name": "Noders Chile",
             "url": "http://www.noders.cl/",
             "logoUrl": "../images/partners/noders.png"

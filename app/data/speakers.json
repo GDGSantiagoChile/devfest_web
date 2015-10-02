@@ -5,17 +5,9 @@
     "company": "Startup Digest",
     "country": "Turkey",
     "photoUrl": "../../images/people/Nicolas_Bortolotti.jpg",
-    "bio": "GDE (Google Developer Expert) for Android. Experience with Android (since Cupcake), Google Glass, Android Wear, and (even on!) iOS. Very passionate developer who tries to live on the bleeding edge of technology. Also very interested in mobile UX. <br/><br/>Active member and organizer at GDG Istanbul enjoying organizing various conferences and hackathons. Also a part of GDG[X] - a GDG related open-source organization.",
-    "tags": ["Android"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/said-tahsin-dane"
-    }, {
-        "name": "GDG",
-        "description": "Google Developers Group Istanbul",
-        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-    }],
+    "bio": "Actualmente Nicolás Bortolotti trabaja como director de relaciones para desarrolladores en LatAm cono sur.Nicolás ha desarrollado comunidades académicas y de investigación en varios países de Latinoamérica en la plataforma de desarrollo de Google, Web y Mobile. Nicolás ha participado académicamente como profesor de la Universidad Tecnológica Nacional (UTN), para las cátedras Ingeniería de Software Orientada a Objetos y Arquitecturas Móviles. En el ámbito de investigación, ha trabajado en el instituto INGAR-UTN-CONICET. En el ambiente corporativo, ha ejercido como arquitecto para el desarrollo de varias organizaciones nacionales y como CTO en Dotar Consulting, especializándose en ingeniería del software, movilidad y cloud computing. Nicolás es un orador y blogger prominente acerca del desarrollo de las tecnologías de Google.Tiene pasión por el desarrollo de software y los programas para el crecimiento de las comunidades de desarrolladores.",
+    "tags": [ ],
+    "badges": [ ],
     "socials": [{
         "name": "Website",
         "link": "http://www.tasomaniac.com/"
@@ -28,31 +20,27 @@
     }]
 }, {
     "id": 2,
-    "name": "Maximiliano Mussuto",
-    "title": "GDG Santiago Chile Lead",
+    "name": "Darcy Vergara",
+    "title": "Profesional UX",
     "company": "GDG",
     "country": "Chile",
-    "photoUrl": "../../images/people/Maximiliano_Mussuto.jpg",
-    "bio": "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive.",
-    "tags": ["Android"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/mateusz-herych"
-    }, {
-        "name": "GDG",
-        "description": "Google Developers Group Krakow",
-        "link": "https://developers.google.com/groups/chapter/107562802227561437057/"
-    }],
+    "photoUrl": "../../images/people/Darcy_Vergara.png",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ]
+} , {
+    "id": 3,
+    "name": "Francisco Solsona",
+    "title": "Developer Platform NoLA Lead, Google - Mexico City",
+    "company": "GDG",
+    "country": "Chile",
+    "photoUrl": "../../images/people/Francisco_Solsona.png",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ],
     "socials": [{
         "name": "Google+",
-        "link": "https://plus.google.com/+MateuszHerych"
-    }, {
-        "name": "Twitter",
-        "link": "https://twitter.com/mherych"
-    }, {
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/herych"
-    }]
-} 
+        "link": "http://google.com/+solsona"
+    } ]
+}
 ]

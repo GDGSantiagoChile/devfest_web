@@ -76,7 +76,7 @@
                 </paper-toolbar>
                 <paper-menu class="list" attr-for-selected="data-route" selected="{{route}}" on-iron-select="onMenuSelect">
                     <a data-route="#!/home" href="/">Home</a>
-                    <a data-route="#!/blog" href="/blog">Blog</a>
+                   
                     <a data-route="#!/speakers" href="/speakers">Speakers</a>
                     <!-- <a data-route="contact" href="/contact">Contact</a> -->
                 </paper-menu>
@@ -97,8 +97,8 @@
 </p>
                                             <p class="slogan"></p>
                                             <div class="links layout horizontal align-pb-block">
-                                                <a href="http://goo.gl/forms/kymZwijWFy" target="_blank">
-                                                    <paper-button noink>
+                                                <a href="http://goo.gl/forms/kymZwijWFy" target="_blank" style="display:none">
+                                                    <paper-button noink  >
                                                         Conviértase  en un speaker
                                                     </paper-button>
                                                 </a>
@@ -114,14 +114,14 @@
                                         </div>
                                     </div>
                                 </div>
-                                <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=GDG%20DevFest%20Chile%202015&dates=20151020T090000/20151020T180000&details= &location=Universidad San Sebastián - Pío Nono, Santiago, Chile&pli=1&uid=&sf=true&output=xml#eventpage_6"
+                                <a href="https://www.google.com/calendar/event?action=TEMPLATE&tmeid=Nm1sM2lscXRyMGpycmc5dmx1b3V0dWtuajggaXJ1bmdhcmF5LmNvbS5hcl9zdjV0Mm12aHE3ZG42dHV0Mm9lZzJ0aDY1NEBn&tmsrc=irungaray.com.ar_sv5t2mvhq7dn6tut2oeg2th654%40group.calendar.google.com"
                                 target="_blank" onclick="ga('send', 'add-event-to-calendar', 'button', 'click');">
                                     <paper-fab class="section-fab-right" icon="icons:event"></paper-fab>
                                 </a>
                             </hero-block>
                             <statistics-block></statistics-block>
-                            <featured-people source="../../data/featured-speakers.json">
-                                <h4 class="heading">Rockstar Speakers</h4>
+                            <featured-people source="../../data/speakers.json">
+                                <h4 class="heading">Speakers</h4>
                             </featured-people>
                             
                         
