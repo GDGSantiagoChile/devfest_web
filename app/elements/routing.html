@@ -37,6 +37,25 @@
             document.querySelector('#blog').closePost();
         });
 
+
+        page('/staff', function() {
+            trackPageview('/speakers');
+            app.route = 'speakers';
+        });
+
+        page('/staff/:id', function(data) {
+            trackPageview('/staff/' + data.params.id);
+            app.route = 'staff';
+            app.params = data.params;
+            app.scrollToTop();
+        });
+
+        page.exit('/speakers/:id', function() {
+            document.querySelector('#people-block').closePerson();
+        });
+
+
+
         page('/speakers', function() {
             trackPageview('/speakers');
             app.route = 'speakers';
