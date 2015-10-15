@@ -1,0 +1,118 @@
+[ {
+        "id": 1,
+        "name": "Maximiliano S. Mussuto Lira",
+        "title": "Ingeniero Consultor IT - GDG Santiago Chile Lead",
+        "company": "Administradora de Activos Financieros Acfin S.A.",
+        "country": "Chile",
+        "photoUrl": "../../images/DSC_1808.JPG",
+        "bio": "Actualmente Christian trabaja como Arquitecto de software y jefe de proyectos en la empresa Acfin S.A, tambien se desempeña como lider del grupo promoviendo y desarrollando soluciones utilizando tecnologías Google Apps y Google Cloud Platform.",
+        "tags": [],
+        "badges": [],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/mossmax62"
+            }, 
+            {
+                "name": "GitHub",
+                "link": "https://github.com/mossmax62"
+            },
+            {
+                "name": "Google+",
+                "link": "http://google.com/+MaximilianoMussuto"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://cl.linkedin.com/pub/maximiliano-mussuto/19/304/194"
+            }
+        ]
+    },
+{
+        "id": 2,
+        "name": "Christian Rojas",
+        "title": "Cloud Developer Engineer - GDG Santiago Chile",
+        "company": "Azurian Tecnología Ltda.",
+        "country": "Chile",
+        "photoUrl": "https://goo.gl/ids8sY",
+        "bio": "Actualmente Christian trabaja como Cloud Developer Engineer en la empresa Azurian Tecnología Ltda, promoviendo y desarrollando soluciones utilizando tecnologías Google Apps y Google Cloud Platform. Además, es miembro activo de GDG Santiago Chile desde Enero de 2015, ha colaborado con varias charlas en los temas de Google App Engine y Python, AngularJS, Google Apps Scripts.",
+        "tags": [],
+        "badges": [],
+        "socials": [
+            {
+                "name": "Twitter",
+                "link": "https://twitter.com/chris_maximoff"
+            }, 
+            {
+                "name": "GitHub",
+                "link": "https://github.com/roofcat"
+            },
+            {
+                "name": "Google+",
+                "link": "http://google.com/+ChristianDiegoRojasNavarrete"
+            },
+            {
+                "name": "LinkedIn",
+                "link": "https://cl.linkedin.com/pub/christian-diego-rojas-navarrete/38/537/74a"
+            }
+        ]
+    }, {
+    "id": 3,
+    "name": "Gustavo Cardelle",
+    "title": "Consultor IT",
+    "company": "GDG Buenos Aires",
+    "country": "Argentina",
+    "photoUrl": "https://lh6.googleusercontent.com/-2blXIg9egdI/T70GNsiSkBI/AAAAAAAAMYI/Z2Mt-nHaEkg/s300-no/Gustavo-Cardelle-G%252B.png",
+    "bio": "Consultor en desarrollos de proyectos IT, ND&I (Network Designer & Installer), Autor, y Manager de GDG Buenos Aires",
+    "tags": [ ],
+    "badges": [ ],
+    "socials": [
+            {
+                "name": "Google+",
+                "link": "google.com/+GustavoCardelle"
+            }
+        ]
+} , {
+    "id": 4,
+    "name": "Rocío Olavarría",
+    "title": "Co-founder Immersity - WTM Lead",
+    "company": "WTM",
+    "country": "Chile",
+    "photoUrl": "https://lh3.googleusercontent.com/QsyTUgQ7Lx1Nhr2uz7UnfcfMZlXCATul6Hme3Ejnt5Lk9SUlul6SMF-QYt5A2Gt-7jYk4qEuJIyMfe4ZqWkF1r7RsuUMohuDfbDDSdHXg0MLPtdXa7ole0g_kjITKqugMRXLQy5mqg",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ]
+    },
+    {
+    "id": 5,
+    "name": "Marivi Briz",
+    "title": "Tech. Product Manager - WTM",
+    "company": "Telefónica I+D",
+    "country": "Chile",
+    "photoUrl": "https://lh5.googleusercontent.com/DBzfI0tfvfXvp0vw5-socnd2J6VaPxVzzKplCeO0uTg4s8_VZ6nQnIdPJYSx1CYkjWUdS37SC8txIiUmyci1kei3uy-UyxABQ2VlSZ6YVmJy_bs9BTXjeY0-vPrCMehspSkSNwf3hw",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ]
+    },
+    {
+    "id": 6,
+    "name": "Laura Eguren",
+    "title": "Tech. Product Manager - WTM",
+    "company": "Telefónica I+D",
+    "country": "Chile",
+    "photoUrl": "https://lh5.googleusercontent.com/pLP-dxV4JAeFsYHoQ-l5-rqTWf0t_tJFBpQkxwUVGk8NXqoNyBAeU8m8PDqnDmquFmzlr8raQSHi9m7sJO-3gTM4gbRHMC5v7r9TSdCTWl7ZM2mtkvWk_WqiSQQ3g2rxEetXl6xT2w",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ]
+    },
+    {
+    "id": 6,
+    "name": "Gabriel Muñoz",
+    "title": "Desarrollador Web - GDG Santiago Chile",
+    "company": "Propamat Ingeniería Electrica",
+    "country": "Chile",
+    "photoUrl": "../../images/Gabriel_Munoz_Madrid.jpg",
+    "bio": "",
+    "tags": [ ],
+    "badges": [ ]
+    }
+]
