@@ -3,8 +3,7 @@
         <style>
             :host {
                 display: block;
-                background: var(--default-primary-color);
-                color: #fff;
+     
             }
 
             .container {
@@ -49,7 +48,7 @@
             }
 
             paper-dialog {
-                background: #fff;
+                background: black;
             }
 
             @media (min-height: 400px) {
@@ -63,35 +62,16 @@
             }
         </style>
         <div id="pricetable" class="container wrap relative layout vertical text-center">
-            <h4 class="heading">Tickets</h4>
-            <div class="price-block-wrapper flex layout vertical-horizontal">
-                <div class="price-block flex text-center">
-                    <span class="ticket-name block">Student</span>
-                    <span class="price">400</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before October 23 or 100 tickets.
-                        <br/>Requires valid student ID</span>
-                </div>
-                <div class="price-block flex text-center">
-                    <span class="ticket-name block">Early Bird</span>
-                    <span class="price">600</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before September 27 or 150 tickets</span>
-                </div>
-                <div class="price-block flex text-center">
-                    <span class="ticket-name block">Lazy Bird</span>
-                    <span class="price">800</span>
-                    <span class="currency">UAH</span>
-                    <span class="additional-info block">*Before October 23</span>
-                </div>
-            </div>
-            <span class="details">Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.</span>
+            <h4 class="heading">Evento</h4>
+ 
+            
             <div class="flex">
-                <paper-button class="white border-button open-dialog-button" on-tap="openTicketsDialog">Buy a ticket</paper-button>
+                <a href="http://www.meetup.com/es/Women-Techmakers-Santiago/events/226011154/" target="_blank"><paper-button class="white border-button  " >MEETUP</paper-button></a>
+                <a href="https://welcu.com/womentechmakers/devfest-2015" target="_blank"><paper-button class="white border-button  " >TICKET</paper-button></a>                
             </div>
         </div>
         <paper-dialog id="ticketsDialog" entry-animation="scale-up-animation" exit-animation="fade-out-animation" modal>
-                <div id="2event_tickets_widget" style="width: 640px; height: 300px; background:#fff;"></div>
+                <div id="2event_tickets_widget" style="width: 640px; height: 300px; "></div>
             <div class="buttons">
                 <a href="http://2event.com/events/312113" target="_blank">
                     <paper-button>Buy on the website</paper-button>

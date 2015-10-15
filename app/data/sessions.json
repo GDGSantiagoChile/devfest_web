@@ -1,30 +1,30 @@
 [
   {
     "id": 101,
-    "title": "TBD",
-    "description": "",
+    "title": "Los 7 arquetipos de la tecnología moderna ",
+    "description": "Actualmente se analizan gran cantidad de modelos tecnológicos, esto vislumbra gran cantidad de desafíos para los grupos de desarrollo actuales. Esta presentación propone 7 ambientes prácticos tecnológicos. Movilidad nativa, movilidad web, ambiente de persistencia móvil, análisis de datos masivos, y el poder de la nube actual: <br><br><br> - Polymer [live demo] <br>- Android and Material Design [live demo]<br> - Android and Monetización Native Ads [live demo]<br> - Firebase [live demo]<br> - Cloud Platform,  GCE [live demo]<br> - Social Analysis and G+ [live demo]<br> - BigQuery  [live demo]",
     "speakers": [1],
-    "language": "en",
-    "complexity": "Beginner",
+    "language": "es",
+    "complexity": "",
     "presentation": "",
     "video": ""
   },
   {
     "id": 102,
-    "title": "TBD",
-    "description": "",
+    "title": "UX en acción: metodologías y herramientas para una implementación rápida y efectiva ",
+    "description": "Conoce, aprende e implementa experiencia de usuario (UX) fácilmente en tu entorno de trabajo. No es necesario ser un experto y dedicar mucho tiempo y recursos, te enseñaremos a usar una herramienta muy potente para incorporar esta gran metodología a tus procesos.",
     "speakers": [2],
-    "language": "en",
-    "complexity": "Beginner",
+    "language": "es",
+    "complexity": "",
     "presentation": "",
     "video": ""
   },
   {
     "id": 103,
-    "title": "Planning Android Screens",
+    "title": "Construyendo apps para los siguientes mil millones ",
     "description": "This talks is about Android UX when building new screen from scratch. We will go through some common Android screens (like Login / Sign Up / Search / etc.) and see what issues you can face, how popular apps are solving them and what are our options. At the end I will show how to plan & prototype animations with Pixate Studio.",
     "speakers": [3],
-    "language": "en",
+    "language": "es",
     "complexity": "Beginner",
     "presentation": "",
     "video": ""
